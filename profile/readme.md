@@ -6,7 +6,7 @@
 
 본 OSS 레포에 가입하여 소마의 Organizations 뱃지를 획득하고 싶거나 OSS 프로젝트 활성화에 참여하고 싶다면 아래 링크들을 참고해주세요.
 
-현재는 [@acious](https://github.com/acious), [@adrinerDP](https://github.com/adrinerDP) 님, 그리고 사무국과 함께 본 레포를 어떻게 운영할지에 대한 그라운드 룰을 고민하고 있으니 아이디어가 있다면 아래 게시판에 달아주세요.
+현재는 [@acious - 김종찬](https://github.com/acious), [@adrinerDP - 이준수](https://github.com/adrinerDP), 그리고 사무국과 함께 본 레포를 어떻게 운영할지에 대한 그라운드 룰을 고민하고 있으니 아이디어가 있다면 아래 게시판에 달아주세요.
 
 감사합니다!
 
