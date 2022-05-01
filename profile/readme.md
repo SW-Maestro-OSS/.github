@@ -10,9 +10,8 @@
 
 감사합니다!
 
-### 👀 살펴보기
-- [💬 라운지](https://github.com/orgs/SW-Maestro-OSS/discussions/categories/%EB%9D%BC%EC%9A%B4%EC%A7%80)
-- [💬 게시판](https://github.com/orgs/SW-Maestro-OSS/discussions)
+### 👀 [게시판](https://github.com/orgs/SW-Maestro-OSS/discussions) 살펴보기
+- [☕️ 라운지](https://github.com/orgs/SW-Maestro-OSS/discussions/categories/%EB%9D%BC%EC%9A%B4%EC%A7%80)
 - [☝️ 커뮤니티 규칙](https://github.com/orgs/SW-Maestro-OSS/discussions/3)
 
 ### ☝️ 커뮤니티 규칙 
