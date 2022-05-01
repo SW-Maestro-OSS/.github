@@ -6,7 +6,7 @@
 
 본 OSS 레포에 가입하여 소마의 Organizations 뱃지를 획득하고 싶거나 OSS 프로젝트 활성화에 참여하고 싶다면 아래 링크들을 참고해주세요.
 
-현재는 [@adrinerDP](https://github.com/adrinerDP) 님과 사무국과 함께 본 레포를 어떻게 운영할지에 대한 그라운드 룰을 고민하고 있으니 아이디어가 있다면 아래 게시판에 달아주세요.
+현재는 [@acious](https://github.com/acious), [@adrinerDP](https://github.com/adrinerDP) 님, 그리고 사무국과 함께 본 레포를 어떻게 운영할지에 대한 그라운드 룰을 고민하고 있으니 아이디어가 있다면 아래 게시판에 달아주세요.
 
 감사합니다!
 
@@ -25,7 +25,7 @@
 
 자세한 사항은 [공지사항:커뮤니티 규칙](https://github.com/orgs/SW-Maestro-OSS/discussions/3)을 참고해주세요
 
-저희 깃헙 Organization 멤버로 추가되기 원하시면 [공지사항](https://github.com/orgs/SW-Maestro-OSS/discussions/2)에 초대요청 댓글을 작성해주세요.
+소마 깃헙 Organization 멤버로 추가되기 원하시면 [공지사항](https://github.com/orgs/SW-Maestro-OSS/discussions/2)에 초대요청 댓글을 작성해주세요.
 
 ------------
 
