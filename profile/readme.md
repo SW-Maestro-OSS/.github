@@ -26,10 +26,10 @@
 자세한 사항은 [공지사항:커뮤니티 규칙](https://github.com/orgs/SW-Maestro-OSS/discussions/3)을 참고해주세요
 
 저희 깃헙 Organization 멤버로 추가되기 원하시면
- - [공지사항](https://github.com/Soongsil-Developers/.github/discussions/1)에 댓글로 깃헙 아이디를 남겨주시거나
+ - [공지사항](https://github.com/orgs/SW-Maestro-OSS/discussions/2)에 댓글로 깃헙 아이디를 남겨주시거나
 
 ------------
 
 문의, 요청 사항이 있다면 [자유게시판](https://github.com/orgs/SW-Maestro-OSS/discussions/categories/open-source-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%9C%EC%95%88)에 글 남겨주세요
 
-비공개로 문의, 요청을 원하면 ace.jckim@gmail.com 으로 연락주세요 🏄‍♂️
+비공개로 문의, 요청을 원하면 ace.jckim@gmail.com 혹은 me@adrinerdp.co 으로 연락주세요 🏄‍♂️
