@@ -12,7 +12,8 @@
 
 ### 👀 [게시판](https://github.com/orgs/SW-Maestro-OSS/discussions) 살펴보기
 - [☕️ 라운지](https://github.com/orgs/SW-Maestro-OSS/discussions/categories/%EB%9D%BC%EC%9A%B4%EC%A7%80)
-- [☝️ Open Source 프로젝트 제안](https://github.com/orgs/SW-Maestro-OSS/discussions/categories/open-source-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%9C%EC%95%88)
+- [💬 Open Source 프로젝트 제안](https://github.com/orgs/SW-Maestro-OSS/discussions/categories/open-source-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%9C%EC%95%88)
+- [❓ 개발관련 이슈 질문/답변](https://github.com/orgs/SW-Maestro-OSS/discussions/categories/open-source-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%9C%EC%95%88)
 
 ### ☝️ 커뮤니티 규칙 
 
