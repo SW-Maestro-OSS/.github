@@ -25,8 +25,7 @@
 
 자세한 사항은 [공지사항:커뮤니티 규칙](https://github.com/orgs/SW-Maestro-OSS/discussions/3)을 참고해주세요
 
-저희 깃헙 Organization 멤버로 추가되기 원하시면
- - [공지사항](https://github.com/orgs/SW-Maestro-OSS/discussions/2)에 댓글로 깃헙 아이디를 남겨주시거나
+저희 깃헙 Organization 멤버로 추가되기 원하시면 [공지사항](https://github.com/orgs/SW-Maestro-OSS/discussions/2)에 초대요청 댓글을 작성해주세요.
 
 ------------
 
