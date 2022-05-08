@@ -23,7 +23,7 @@ SW Maestro OSS는 소마인들이 다양한 오픈소스 활동을 할 수 있�
 > 사무국과 함께 본 레포를 어떻게 운영할지에 대한 그라운드 룰을 고민하고 있으니 아이디어가 있다면 아래 게시판에 달아주세요.
 
 - [☕️ 라운지](https://github.com/orgs/SW-Maestro-OSS/discussions/categories/%EB%9D%BC%EC%9A%B4%EC%A7%80)
-- [💬 프로젝트 제안](https://github.com/orgs/SW-Maestro-OSS/discussions/categories/open-source-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%9C%EC%95%88)
+- [💬 프로젝트 제안](https://github.com/orgs/SW-Maestro-OSS/discussions/categories/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%9C%EC%95%88)
 - [❓ 개발관련 이슈 질문/답변](https://github.com/orgs/SW-Maestro-OSS/discussions/categories/open-source-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%9C%EC%95%88)
 
 
