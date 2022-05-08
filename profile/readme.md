@@ -24,7 +24,7 @@ SW Maestro OSS는 소마인들이 다양한 오픈소스 활동을 할 수 있�
 
 - [☕️ 라운지](https://github.com/orgs/SW-Maestro-OSS/discussions/categories/%EB%9D%BC%EC%9A%B4%EC%A7%80)
 - [💬 프로젝트 제안](https://github.com/orgs/SW-Maestro-OSS/discussions/categories/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%9C%EC%95%88)
-- [❓ 개발관련 이슈 질문/답변]https://github.com/orgs/SW-Maestro-OSS/discussions/categories/%EA%B0%9C%EB%B0%9C%EA%B4%80%EB%A0%A8-%EC%9D%B4%EC%8A%88-%EC%A7%88%EB%AC%B8-%EB%8B%B5%EB%B3%80)
+- [❓ 개발관련 이슈 질문/답변](https://github.com/orgs/SW-Maestro-OSS/discussions/categories/%EA%B0%9C%EB%B0%9C%EA%B4%80%EB%A0%A8-%EC%9D%B4%EC%8A%88-%EC%A7%88%EB%AC%B8-%EB%8B%B5%EB%B3%80)
 
 
 ### ☝️ 커뮤니티 규칙 
