@@ -45,5 +45,4 @@ SW Maestro OSS는 소마인들이 다양한 오픈소스 활동을 할 수 있�
 > 또는 [프로젝트 제안](https://github.com/orgs/SW-Maestro-OSS/discussions/categories/open-source-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%9C%EC%95%88) 게시판을 통해 제안을 해주셔도 됩니다.
 
 - **김종찬** | [@acious](https://github.com/acious) | ace.jckim@gmail.com (SWM 멘토)
-- **이준수** | [@adrinerDP](https://github.com/adrinerDP) | me@adrinerdp.co (SWM 13기 연수생)
 - [소프트웨어 마에스트로](http://swmaestro.kr) 사무국
