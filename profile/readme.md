@@ -12,7 +12,7 @@ SW Maestro OSS는 소마인들이 다양한 오픈소스 활동을 할 수 있�
 
 ### 🎉 어떻게 참여하나요?
 
-- [공지사항 게시글](https://github.com/SW-Maestro-OSS/.github/discussions/2)에 초대를 요청하는 댓글을 작성해주세요.
+- [SWM OSS 가입신청 폼](https://forms.gle/HxyvQ7AeRQ98VqMw5)을 통해 가입을 신청해주세요.
 - Github Organization 소속 뱃지를 통해 소마인임을 드러낼 수 있습니다.
 
 
